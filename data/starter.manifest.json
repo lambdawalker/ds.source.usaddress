@@ -1,0 +1,103 @@
+{
+  "upstream_revision": "1dff543e9688552f3776799dde77ed60b171af06",
+  "per_file_limit": 5000,
+  "sampling": "lowest SHA256 of normalized point identity per file",
+  "selected_point_count": 10949,
+  "address_family_count": 5160,
+  "files": [
+    {
+      "file": "01001.csv.xz",
+      "sha256": "0e1e552c40bc73ed076cf3b2d88be6ab277abd51c709a5a1afc7baf0b2f37d9c",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/01001.csv.xz",
+      "input_rows": 1512,
+      "unique_eligible_points": 949,
+      "selected_points": 949,
+      "rejected_rows": 563,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 508,
+        "unsupported_street_or_unit_syntax": 55
+      },
+      "duplicate_eligible_rows": 0
+    },
+    {
+      "file": "04019.csv.xz",
+      "sha256": "f4bd38c5bbfff9239e347f282e9ed2b595b4792c6556ff00ba36f1b4e7a7fbbf",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/04019.csv.xz",
+      "input_rows": 16635,
+      "unique_eligible_points": 13540,
+      "selected_points": 5000,
+      "rejected_rows": 3095,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 2475,
+        "unsupported_street_or_unit_syntax": 620
+      },
+      "duplicate_eligible_rows": 0
+    },
+    {
+      "file": "06073.csv.xz",
+      "sha256": "755b64f318dec080da9350fdf40178893713cee6f31ee20857ef2f15066855d6",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/06073.csv.xz",
+      "input_rows": 28633,
+      "unique_eligible_points": 0,
+      "selected_points": 0,
+      "rejected_rows": 28633,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 28633
+      },
+      "duplicate_eligible_rows": 0
+    },
+    {
+      "file": "25025.csv.xz",
+      "sha256": "53d5d007b4379fae5753e8aee516110416b94e3fa797a74aa8e2d46b966ee038",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/25025.csv.xz",
+      "input_rows": 164301,
+      "unique_eligible_points": 0,
+      "selected_points": 0,
+      "rejected_rows": 164301,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 164301
+      },
+      "duplicate_eligible_rows": 0
+    },
+    {
+      "file": "36061.csv.xz",
+      "sha256": "51fe9b69559ca03177338eba0777375c426e08a2dd3adeb2c882233e19197ddb",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/36061.csv.xz",
+      "input_rows": 63346,
+      "unique_eligible_points": 60614,
+      "selected_points": 5000,
+      "rejected_rows": 841,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 841
+      },
+      "duplicate_eligible_rows": 1891
+    },
+    {
+      "file": "48029.csv.xz",
+      "sha256": "5880ace2cf6cf2442dfd98281d31aad83e3b38dee4eeeec13694d2983a4fb193",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/48029.csv.xz",
+      "input_rows": 23695,
+      "unique_eligible_points": 0,
+      "selected_points": 0,
+      "rejected_rows": 23695,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 23695
+      },
+      "duplicate_eligible_rows": 0
+    },
+    {
+      "file": "53033.csv.xz",
+      "sha256": "b75a66f8e1a88bb86f1842b760849c0635f2343c0cd10df5953d954b4a25e44b",
+      "url": "https://github.com/uva-bi-sdad/national_address_database/blob/1dff543e9688552f3776799dde77ed60b171af06/data/address/53033.csv.xz",
+      "input_rows": 27686,
+      "unique_eligible_points": 0,
+      "selected_points": 0,
+      "rejected_rows": 27686,
+      "rejected_by_reason": {
+        "missing_or_ambiguous_components": 27686
+      },
+      "duplicate_eligible_rows": 0
+    }
+  ],
+  "output_sha256": "d7c4b4cafebdde096433b87fc456506cdcef9750b3fd5eb8bd6ea64c337eb555"
+}

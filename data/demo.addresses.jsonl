@@ -1,0 +1,8 @@
+{"id":"demo:01","source_id":"demo","components":{"street_name":"OAK","street_suffix":"DR","city":"BOSTON","state":"MA","zip":"02108"},"numbers":{"ranges":[{"start":10,"end":100,"step":1}]}}
+{"id":"demo:02","source_id":"demo","components":{"street_prefix":"N","street_name":"DESERT VIEW","street_suffix":"RD","city":"TUCSON","state":"AZ","zip":"85701"},"numbers":{"ranges":[{"start":100,"end":198,"step":2},{"start":300,"end":398,"step":2}]}}
+{"id":"demo:03","source_id":"demo","components":{"street_name":"MAGNOLIA","street_suffix":"AVE","city":"SAN DIEGO","state":"CA","zip":"92101"},"numbers":{"ranges":[{"start":101,"end":199,"step":2}]}}
+{"id":"demo:04","source_id":"demo","components":{"street_name":"CEDAR","street_suffix":"ST","city":"PORTLAND","state":"OR","zip":"97201","unit_type":"APT","unit":"2B"},"numbers":{"values":["12A","14","16 1/2"]}}
+{"id":"demo:05","source_id":"demo","components":{"street_name":"EAST RIDGE","street_suffix":"BLVD","city":"DENVER","state":"CO","zip":"80202"},"numbers":{"ranges":[{"start":900,"end":1200,"step":2}]}}
+{"id":"demo:06","source_id":"demo","components":{"street_name":"LAKEVIEW","street_suffix":"LN","city":"MADISON","state":"WI","zip":"53703"},"numbers":{"values":["0012","10-14","104"]}}
+{"id":"demo:07","source_id":"demo","components":{"street_name":"MEADOW","street_suffix":"CT","city":"AUSTIN","state":"TX","zip":"78701","unit_type":"STE","unit":"104"},"numbers":{"values":["505","507","509"]}}
+{"id":"demo:08","source_id":"demo","components":{"street_name":"PINE","street_suffix":"ST","city":"SEATTLE","state":"WA","zip":"98101"},"numbers":{"ranges":[{"start":1,"end":9999,"step":1}]}}

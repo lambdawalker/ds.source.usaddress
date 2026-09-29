@@ -1,0 +1,11 @@
+{
+  "id": "two_lines",
+  "version": 1,
+  "description": "Street line, then city/state/ZIP; short and expanded common suffix variants.",
+  "case": "upper",
+  "variants": [
+    {"lines": ["{number} {street}", "{city}, {state} {zip}"]},
+    {"lines": ["{number} {street}", "{city} {state} {zip}"],
+     "replacements": {"street_suffix": {"ST": "STREET", "DR": "DRIVE", "RD": "ROAD", "AVE": "AVENUE", "BLVD": "BOULEVARD", "LN": "LANE", "CT": "COURT"}}}
+  ]
+}

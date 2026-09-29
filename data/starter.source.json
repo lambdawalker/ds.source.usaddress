@@ -1,0 +1,11 @@
+{
+  "id": "nad_uva_starter_20260929",
+  "name": "NAD-derived county extracts, UVA Biocomplexity Institute SDAD",
+  "url": "https://github.com/uva-bi-sdad/national_address_database",
+  "upstream_revision": "1dff543e9688552f3776799dde77ed60b171af06",
+  "retrieved_at": "2026-09-29",
+  "license": "NAD federal data reuse statement; upstream enrichment has no separate license declaration",
+  "terms_url": "https://www.transportation.gov/mission/open/gis/national-address-database/national-address-database-nad-disclaimer",
+  "validity": "source_observed_not_delivery_validated",
+  "notes": "Third-party NAD-derived extract, including upstream gap filling. No claim of current deliverability, county completeness, national coverage, or demographic representativeness. Source release dates not verified. Missing or malformed fields are rejected; ZIP digits are not invented."
+}

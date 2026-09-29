@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usaddress-dataset"
+version = "0.1.0"
+description = "US address families with independent SQLite format indexes and per-line length containment queries"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+classifiers = ["Programming Language :: Python :: 3", "Topic :: Database"]
+
+[project.scripts]
+usaddress-dataset = "usaddress_dataset.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

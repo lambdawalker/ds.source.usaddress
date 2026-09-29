@@ -1,0 +1,7 @@
+{
+  "id": "three_lines",
+  "version": 1,
+  "description": "Street, city, and state/ZIP on separate lines.",
+  "case": "upper",
+  "variants": [{"lines": ["{number} {street}", "{city}", "{state} {zip}"]}]
+}

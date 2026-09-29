@@ -1,0 +1,9 @@
+{
+  "id": "demo",
+  "name": "Authored demonstration families",
+  "url": "https://github.com/lambdawalker/ds.source.usaddress/tree/main/data",
+  "license": "Demonstration data authored for this repository; no third-party source data",
+  "retrieved_at": "2026-09-29",
+  "validity": "synthetic_fixture",
+  "notes": "Illustrative street/number combinations. Not verified geographic or postal data. Use source adapters for training data."
+}

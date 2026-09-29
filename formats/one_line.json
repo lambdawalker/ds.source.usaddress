@@ -1,0 +1,10 @@
+{
+  "id": "one_line",
+  "version": 1,
+  "description": "Complete base street address on one line.",
+  "case": "upper",
+  "variants": [
+    {"lines": ["{number} {street}, {city}, {state} {zip}"]},
+    {"lines": ["{number} {street} {city} {state} {zip}"]}
+  ]
+}
